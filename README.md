@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thrldr
+- 👀 I’m interested in gamedev, machine learning, C++
+- 🌱 I’m currently learning unreal engine 4
+- 📫 How to reach me @thrldr for telegram, thrldr@mail.ru
